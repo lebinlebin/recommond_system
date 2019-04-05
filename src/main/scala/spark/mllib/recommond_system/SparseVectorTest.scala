@@ -1,4 +1,4 @@
-package bj58.com.recommond_system
+package spark.mllib.recommond_system
 import org.apache.spark.mllib.linalg.Vectors
 /*
 稠密向量和稀疏向量

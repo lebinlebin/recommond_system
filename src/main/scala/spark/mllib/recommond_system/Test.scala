@@ -1,4 +1,4 @@
-package bj58.com.recommond_system
+package spark.mllib.recommond_system
 
 /**
   * Created by root on 2016/5/7 0007.

@@ -1,4 +1,4 @@
-package bj58.com.recommond_system
+package spark.mllib.recommond_system
 
 import java.io.{FileOutputStream, PrintWriter}
 import java.lang.Math.random
